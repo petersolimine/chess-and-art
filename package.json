@@ -1,0 +1,13 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chess": "node chess.js",
+    "art": "node art.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
